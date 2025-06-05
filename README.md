@@ -39,7 +39,7 @@ WattMank is an AI-powered platform that analyzes rooftop images to provide detai
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wattmonk.git
+   git clone https://github.com/harsimran726/wattmonk.git
    cd wattmonk
    ```
 
